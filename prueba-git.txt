@@ -7,3 +7,5 @@ mi primer commit en dev.
 mi primer commit mientras comparto el proyecto.
 
 Mi primer commit realizado por Javi.
+
+hola soy alejandro y estoy haciendo este ejercicio para hacer el merge.
