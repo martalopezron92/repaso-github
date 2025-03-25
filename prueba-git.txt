@@ -7,3 +7,7 @@ mi primer commit en dev.
 mi primer commit mientras comparto el proyecto.
 
 Mi primer commit realizado por Javi.
+
+
+
+A partir de aqui hacemos modificiaciones para este ejercicios (2SMRB)
