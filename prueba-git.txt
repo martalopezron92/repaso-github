@@ -9,4 +9,13 @@ mi primer commit mientras comparto el proyecto.
 Mi primer commit realizado por Javi.
 
 
-Mi primera linea en este archivo 
+
+A partir de aqui hacemos modificiaciones para este ejercicios (2SMRB)
+
+hola soy alejandro y estoy haciendo este ejercicio para hacer el merge.
+
+
+
+A partir de aqui hacemos modificiaciones para este ejercicios (2SMRB)
+
+hola soy alejandro y estoy haciendo este ejercicio para hacer el merge.
