@@ -7,3 +7,6 @@ mi primer commit en dev.
 mi primer commit mientras comparto el proyecto.
 
 Mi primer commit realizado por Javi.
+
+
+Mi primera linea en este archivo 
