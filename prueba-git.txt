@@ -2,6 +2,7 @@ mi primer commit en rama master.
 
 mi primer commit en main.
 
+<<<<<<< HEAD
 mi primer commit en dev.
 
 mi primer commit mientras comparto el proyecto.
@@ -21,3 +22,6 @@ A partir de aqui hacemos modificiaciones para este ejercicios (2SMRB)
 hola soy alejandro y estoy haciendo este ejercicio para hacer el merge.
 
 Daniel Arenillas Blanco
+=======
+mi primer commit en dev.
+>>>>>>> 056e80d6398deabc86059a828f7cbaa45a9c2248
