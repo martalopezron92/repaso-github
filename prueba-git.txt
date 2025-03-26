@@ -8,6 +8,9 @@ mi primer commit mientras comparto el proyecto.
 
 Mi primer commit realizado por Javi.
 
+<<<<<<< HEAD
+mi primer commit realizado por eduardo rabanillo 
+=======
 
 
 A partir de aqui hacemos modificiaciones para este ejercicios (2SMRB)
@@ -21,3 +24,4 @@ A partir de aqui hacemos modificiaciones para este ejercicios (2SMRB)
 hola soy alejandro y estoy haciendo este ejercicio para hacer el merge.
 
 Daniel Arenillas Blanco
+>>>>>>> 90b6186cd91bc116cbd9045bb161b76b4ffbd441
